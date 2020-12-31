@@ -1,0 +1,6 @@
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\bin\Debug\CodeSnipet4.exe.config
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\bin\Debug\CodeSnipet4.exe
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\bin\Debug\CodeSnipet4.pdb
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\obj\Debug\CodeSnipet4.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\obj\Debug\CodeSnipet4.exe
+C:\Users\PC\source\Session1Update\Session6\CodeSnipet4\obj\Debug\CodeSnipet4.pdb
